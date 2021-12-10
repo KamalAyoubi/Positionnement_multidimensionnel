@@ -1,5 +1,7 @@
+## Introduction générale
 
-Le positionnement multidimensionnel nommé aussi la mise à l'échelle multidimensionnelle (multidimensional scaling, noté MDS) est un ensemble de méthodes permettant de déterminer les coordonnées d'un ensemble d'objets dans un espace de dimension prédéfini, à partir des données de proximité (des distances, des dissimilarités ou des similarités) entre ces objets. Autrement dit, c'est une technique qui permet de fournir une représentation visuelle, dans un repère euclidien (habituellement bi ou tridimensionnel), des positions approximatives des objets décrits par une matrice des distances, des dissimilarités ou des similarités.\\
+
+Le positionnement multidimensionnel nommé aussi la mise à l'échelle multidimensionnelle (multidimensional scaling, noté MDS) est un ensemble de méthodes permettant de déterminer les coordonnées d'un ensemble d'objets dans un espace de dimension prédéfini, à partir des données de proximité (des distances, des dissimilarités ou des similarités) entre ces objets. Autrement dit, c'est une technique qui permet de fournir une représentation visuelle, dans un repère euclidien (habituellement bi ou tridimensionnel), des positions approximatives des objets décrits par une matrice des distances, des dissimilarités ou des similarités.
 
 On peut alors trouver différents types de méthodes de positionnement multidimensionnel. En effet, ces méthodes varient en fonction de la nature du tableau initial et des algorithmes utilisés. Mais toutes les méthodes cherchent à déterminer une représentation graphique des objets dans un espace de dimension préalablement fixée. Dans ce travail, nous allons décrire le principe des méthodes MDS, et l’appliquer sur différents types de distances.
 
